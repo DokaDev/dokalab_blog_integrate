@@ -1,3 +1,6 @@
 [submodule "dokalab_blog_client"]
 	path = dokalab_blog_client
 	url = https://github.com/DokaDev/dokalab_blog_client.git
+[submodule "dokalab-blog-svc"]
+	path = dokalab-blog-svc
+	url = https://github.com/DokaDev/dokalab-blog-svc.git
